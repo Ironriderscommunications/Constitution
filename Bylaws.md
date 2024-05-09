@@ -151,7 +151,7 @@ The following leads are responsible for maintaining the following roles.
   * Coordinate development and use of software solutions for competition scouting, such as apps and/or other types of computerized data analysis
   * Work with communications lead to maintain functionality of the website, as opposed to content management. 
   * Work with Strategy to win the Innovation In Control Systems Award
-* CAD Specialist
+* CAD lead
   * Develop CAD/Design curriculum
   * Teach curriculum
   * Work with Strategy Department to draft the Design Platform
